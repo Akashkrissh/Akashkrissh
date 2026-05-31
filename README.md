@@ -81,15 +81,3 @@ An end-to-end security operations platform that automates detection, triage, and
 | Cisco | PCAP — Python Essentials |
 
 ---
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akashkrissh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akashkrissh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akashkrissh&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-</div>
